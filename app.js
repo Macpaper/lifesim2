@@ -92,7 +92,7 @@ function update() {
   rule(yellow, red, r[5]);
   rule(yellow, green, r[6]);
   rule(yellow, purple, r[7]);
-
+//lolwhat
   rule(green, yellow, r[8]);
   rule(green, red, r[9]);
   rule(green, green, r[10]);
